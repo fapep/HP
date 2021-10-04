@@ -1,0 +1,12 @@
+{
+    "success":true,
+    "asset":"FAKESCREAM",
+    "asset_issuer_address":"1BzvWxzCGRiywiSu8avvXehrTBfW6GLaGJ",
+    "asset_owner_address":"1BzvWxzCGRiywiSu8avvXehrTBfW6GLaGJ",
+    "asset_supply":"100",
+    "asset_divisible":false,
+    "asset_locked":true,
+    "image":"https://i.imgur.com/iJEOLQl.png",
+    "image_large":"https://i.imgur.com/hgTB553.gif",
+    "image_title":"FAKESCREAM"
+}
