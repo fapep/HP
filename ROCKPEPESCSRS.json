@@ -1,6 +1,6 @@
 {
     "success":true,
-    "asset":"ROCKPEPESCISRS",
+    "asset":"ROCKPEPESCSRS",
     "asset_issuer_address":"158wBjBt2jmD4m7gSUAoUo4krGmGg2dvp7",
     "asset_owner_address":"158wBjBt2jmD4m7gSUAoUo4krGmGg2dvp7",
     "asset_supply":"100",
@@ -8,5 +8,5 @@
     "asset_locked":true,
     "image":"https://i.imgur.com/s9YqERK.png",
     "image_large":"https://i.imgur.com/3Y4Ougi.png",
-    "image_title":"ROCKPEPESCISRS"
+    "image_title":"ROCKPEPESCSRS"
 }
