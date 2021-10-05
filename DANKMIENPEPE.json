@@ -1,0 +1,12 @@
+{
+    "success":true,
+    "asset":"DANKMIENPEPE",
+    "asset_issuer_address":"1Fpj3y6fk3wqpVX3VZAcARfp6wC5LY2kZ7",
+    "asset_owner_address":"1Fpj3y6fk3wqpVX3VZAcARfp6wC5LY2kZ7",
+    "asset_supply":"100",
+    "asset_divisible":false,
+    "asset_locked":true,
+    "image":"https://i.imgur.com/8u6bEUb.png",
+    "image_large":"https://i.imgur.com/R6J3PUk.png",
+    "image_title":"DANKMIENPEPE"
+}
