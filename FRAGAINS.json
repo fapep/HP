@@ -6,7 +6,7 @@
     "asset_supply":"1111",
     "asset_divisible":false,
     "asset_locked":true,
-    "image":"i.imgur.com/Ur6qG2Q.png",
-    "image_large":"i.imgur.com/X9IuFmh.png",
+    "image":"https://i.imgur.com/Ur6qG2Q.png",
+    "image_large":"https://i.imgur.com/X9IuFmh.png",
     "image_title":"FRAGAINS"
 }
