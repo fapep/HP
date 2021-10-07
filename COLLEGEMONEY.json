@@ -1,0 +1,12 @@
+{
+    "success":true,
+    "asset":"COLLEGEMONEY",
+    "asset_issuer_address":"1Fund8SCBByWS8CcSpVe5yrWRjx1zRHeKu",
+    "asset_owner_address":"1Fund8SCBByWS8CcSpVe5yrWRjx1zRHeKu",
+    "asset_supply":"125",
+    "asset_divisible":false,
+    "asset_locked":true,
+    "image":"https://i.imgur.com/wEMEv7T.png",
+    "image_large":"https://i.imgur.com/zO3224v.png",
+    "image_title":"COLLEGEMONEY"
+}
